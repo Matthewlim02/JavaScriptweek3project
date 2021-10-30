@@ -234,7 +234,7 @@ This function takes two parameters, the money in the account and the cost of the
 The reason I wrote this code is because it's a real life situation that I've come across before. 
 And I can see how you could actually use this in a website to help determine if a customer can buy a certain product.*/
 
-var costOfGame = 29;
+/*var costOfGame = 29;
 
 var moneyInAccount = 100;
 
@@ -245,4 +245,4 @@ function buyGame(moneyInAccount, costOfGame){
         return 'I need to save up.';
     }
 }
-console.log(buyGame(moneyInAccount, costOfGame));
+console.log(buyGame(moneyInAccount, costOfGame));*/
